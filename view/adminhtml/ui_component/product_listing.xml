@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    The PR-7 approach enriches existing attribute columns inline rather than
+    adding a dedicated column. This file is retained as an empty skeleton so
+    Magento's UI component merge does not error on a missing file reference.
+-->
+<listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd">
+</listing>
