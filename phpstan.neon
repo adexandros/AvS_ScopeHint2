@@ -1,0 +1,14 @@
+parameters:
+    level: 5
+    paths:
+        - Plugin
+        - Service
+        - Block
+        - Model
+        - Api
+        - Ui
+    excludePaths:
+        - Test/*
+    treatPhpDocTypesAsCertain: false
+    ignoreErrors:
+        - '#Magento\\Config\\Model\\Config\\Structure\\AbstractElement::getData\(\) invoked with 1 parameter#'
